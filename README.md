@@ -18,11 +18,15 @@ How to run and test the Glassware WebApp:
 ---
 
 * To Compile
-```mvn clean; mvn package
+
+```
+mvn clean; mvn package
 ```
 
 * To Run the web server
-```mvn jetty:run
+
+```
+mvn jetty:run
 ```
 
 * Navigate to http://localhost:8080 in the browser
