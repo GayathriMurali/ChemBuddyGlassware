@@ -9,7 +9,7 @@ This glassware app uses Mirror API to receive instructions posted by the teacher
 Implementation:
 ---
 
-We have adapted the Google Mirror API starter code and implemented custom addition of timeline cards and also interface with GDK to invoke the native camera app (See ChemBuddy repository for the GDK app).
+We adapted the Google Mirror API - <a href="https://developers.google.com/glass/develop/mirror/quickstart/index" >Java Quickstart code</a> and implemented custom addition of timeline cards and also interface with GDK to invoke the native camera app (See ChemBuddy repository for the GDK app).
 
 How to run and test the Glassware WebApp (locally):
 ---
