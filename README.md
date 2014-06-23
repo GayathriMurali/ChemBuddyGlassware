@@ -11,7 +11,7 @@ Implementation:
 
 We have adapted the Google Mirror API starter code and implemented custom addition of timeline cards and also interface with GDK to invoke the native camera app (See ChemBuddy repository for the GDK app).
 
-How to run and test the Glassware WebApp:
+How to run and test the Glassware WebApp (locally):
 ---
 
 * To Compile
