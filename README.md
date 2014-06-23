@@ -29,7 +29,7 @@ mvn jetty:run
 * Open the following url in the browser
 
 ```
-<a href="http://localhost:8080">http://localhost:8080</a>
+http://localhost:8080
 ```
 
 * Paste the contents of input.xml into the textbox and click on Create Experiment button
